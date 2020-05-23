@@ -66,5 +66,3 @@ print("range(9, -1, -1):", np.arange(9, -1, -1))
 print("不带步长的ndarray：", np.linspace(start=0, stop=1, num=10))
 print("带步长的ndarray：", np.linspace(start=0, stop=1, num=10, retstep=True))  # 步长=(1-0)/9=0.1111111
 print("带步长的ndarray：", np.linspace(start=0.1, stop=1, num=10, retstep=True))  # 步长=(1-0.1)/9=0.1
-
-
