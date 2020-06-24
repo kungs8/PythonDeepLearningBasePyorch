@@ -45,7 +45,7 @@ momentum = 0.5  # 动量参数，值域(0, 1)
 # 定义预处理函数，这些预处理依次放在Compose函数中
 transform = transforms.Compose([transforms.ToTensor(), transforms.Normalize([0.5], [0.5])])
 # 下载数据
-train_dataset = mnist.MNIST("./data", train=True, transform=transform, download=False)
+train_dataset = mnist.MNIST("./data", train=True, transform=transform, download=True)
 test_dataset = mnist.MNIST("./data", train=False, transform=transform)
 
 # dataloader是一个可迭代对象，可以像迭代器一样使用
