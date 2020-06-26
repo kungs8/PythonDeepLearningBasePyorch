@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdef13e4-1234-4bc0-9180-4a154fb69969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.5_优化器.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.6_动态修改学习率参数.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,23 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3.2_神经网络实例.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.2_神经网络实例.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1322">
-              <caret line="104" column="13" lean-forward="true" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="13" />
-              <folding>
-                <element signature="e#723#741#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.5_优化器.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.5_优化器.py">
+      <file leaf-file-name="3.6_动态修改学习率参数.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.6_动态修改学习率参数.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="348">
-              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -55,6 +42,7 @@
       <list>
         <option value="$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.2_神经网络实例.py" />
         <option value="$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.5_优化器.py" />
+        <option value="$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.6_动态修改学习率参数.py" />
       </list>
     </option>
   </component>
@@ -230,6 +218,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.5_优化器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.2_神经网络实例.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1322">
@@ -240,10 +235,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.5_优化器.py">
+    <entry file="file://$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.6_动态修改学习率参数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
