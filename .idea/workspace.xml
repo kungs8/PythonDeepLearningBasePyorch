@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdef13e4-1234-4bc0-9180-4a154fb69969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.7_优化器比较.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/4.1_数据处理工具箱概述.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,14 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="3.7_优化器比较.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.7_优化器比较.py">
+      <file leaf-file-name="4.1_数据处理工具箱概述.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/4.1_数据处理工具箱概述.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="82" column="10" lean-forward="true" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
-              <folding>
-                <element signature="e#226#238#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="348">
+              <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -57,6 +52,7 @@
         <option value="$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.6_动态修改学习率参数.py" />
         <option value="$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/test.py" />
         <option value="$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.7_优化器比较.py" />
+        <option value="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/4.1_数据处理工具箱概述.py" />
       </list>
     </option>
   </component>
@@ -92,7 +88,7 @@
             <path>
               <item name="PythonDeepLearningBasePytorch" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDeepLearningBasePytorch" type="462c0819:PsiDirectoryNode" />
-              <item name="Champter3_Pythorch神经网络工具箱" type="462c0819:PsiDirectoryNode" />
+              <item name="Champter4_PyTorch数据处理工具箱" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,9 +210,9 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="11" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.328594" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.328594" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328594" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.328594" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -319,6 +315,16 @@
           <folding>
             <element signature="e#226#238#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/4.1_数据处理工具箱概述.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
         </state>
       </provider>
     </entry>
