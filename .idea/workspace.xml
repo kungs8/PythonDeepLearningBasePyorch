@@ -2,81 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdef13e4-1234-4bc0-9180-4a154fb69969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.1_tensorboardX简介.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.3_用tensorboardX可视化损失值.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/4.1_数据处理工具箱概述.py" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.1_数据处理工具箱概述.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/4.2_utils的data简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.2_utils的data简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/4.3_torchvision简介.py" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.3_torchvision简介.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0002.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0003.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0004.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0005.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0006.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0006.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0007.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0008.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0009.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0009.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0010.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0010.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0011.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0011.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0012.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0012.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0013.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0013.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0014.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0014.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Andy_Roddick/Andy_Roddick_0015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Andy_Roddick/Andy_Roddick_0015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0002.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0003.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0004.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0005.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0006.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0006.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0007.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0008.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0009.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0009.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0010.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0010.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0011.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0011.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0012.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0012.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0013.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0013.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0014.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0014.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0016.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0016.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0017.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0017.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0018.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0018.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0019.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0019.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Paul_Bremer/Paul_Bremer_0020.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Paul_Bremer/Paul_Bremer_0020.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0002.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0002.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0003.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0004.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0004.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0005.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0006.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0006.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0007.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0007.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0008.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0009.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0009.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0010.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0010.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0011.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0011.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0012.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0012.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0013.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0013.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0014.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0014.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0016.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0016.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0017.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0017.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0018.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0018.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0019.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0019.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0020.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0020.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0021.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0021.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0022.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0022.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0023.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0023.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0025.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0025.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0026.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0026.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0027.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0027.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0028.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0028.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0029.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0029.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0030.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0030.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0031.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0031.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/data/torchvision_data/Vicente_Fox/Vicente_Fox_0032.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/data/torchvision_data/Vicente_Fox/Vicente_Fox_0032.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/res_data/test01.png" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/res_data/test01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/logs/events.out.tfevents.1593511837.NgandeMacBook-Pro.local" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/res_data/test01.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,6 +23,8 @@
     <SUITE FILE_PATH="coverage/PythonDeepLearningBasePytorch$3_2_.coverage" NAME="3.2_神经网络实例 Coverage Results" MODIFIED="1593154868261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱" />
     <SUITE FILE_PATH="coverage/PythonDeepLearningBasePytorch$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1593486249923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonDeepLearningBasePytorch$4_3_torchvision.coverage" NAME="4.3_torchvision简介 Coverage Results" MODIFIED="1593355299641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱" />
+    <SUITE FILE_PATH="coverage/PythonDeepLearningBasePytorch$4_4_2_tensorboardX.coverage" NAME="4.4.2_用tensorboardX可视化神经网络 Coverage Results" MODIFIED="1593571111427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox" />
+    <SUITE FILE_PATH="coverage/PythonDeepLearningBasePytorch$4_4_3_tensorboardX.coverage" NAME="4.4.3_用tensorboardX可视化损失值 Coverage Results" MODIFIED="1593571237879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox" />
     <SUITE FILE_PATH="coverage/PythonDeepLearningBasePytorch$4_4_.coverage" NAME="4.4_可视化工具 Coverage Results" MODIFIED="1593505186816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱" />
     <SUITE FILE_PATH="coverage/PythonDeepLearningBasePytorch$test.coverage" NAME="test Coverage Results" MODIFIED="1593511766625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox" />
   </component>
@@ -112,11 +44,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="4.4.1_tensorboardX简介.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.1_tensorboardX简介.py">
+      <file leaf-file-name="4.4.2_用tensorboardX可视化神经网络.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+            <state relative-caret-position="346">
+              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+              <folding>
+                <element signature="e#304#316#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.4.3_用tensorboardX可视化损失值.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.3_用tensorboardX可视化损失值.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+              <folding>
+                <element signature="e#288#306#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="376">
-              <caret line="137" column="60" lean-forward="true" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="60" />
+              <caret line="137" column="60" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="60" />
               <folding>
                 <element signature="e#139#160#0" expanded="true" />
               </folding>
@@ -189,6 +136,9 @@
         <option value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/sss.py" />
         <option value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4_可视化工具.py" />
         <option value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.1_tensorboardX简介.py" />
+        <option value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/res_data/4.4.2_用tensorboardX可视化神经网络.py" />
+        <option value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py" />
+        <option value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.3_用tensorboardX可视化损失值.py" />
       </list>
     </option>
   </component>
@@ -245,6 +195,9 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱" />
     </key>
@@ -261,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sss">
+  <component name="RunManager" selected="Python.4.4.3_用tensorboardX可视化损失值">
     <configuration name="4.4_可视化工具" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDeepLearningBasePytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,6 +234,44 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="4.4.2_用tensorboardX可视化神经网络" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDeepLearningBasePytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="4.4.3_用tensorboardX可视化损失值" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonDeepLearningBasePytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.3_用tensorboardX可视化损失值.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="sss" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonDeepLearningBasePytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,44 +286,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.1_tensorboardX简介.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonDeepLearningBasePytorch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonDeepLearningBasePytorch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,19 +311,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.test (2)" />
       <item itemvalue="Python.4.4_可视化工具" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.sss" />
+      <item itemvalue="Python.4.4.2_用tensorboardX可视化神经网络" />
+      <item itemvalue="Python.4.4.3_用tensorboardX可视化损失值" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.4.3_用tensorboardX可视化损失值" />
+        <item itemvalue="Python.4.4.2_用tensorboardX可视化神经网络" />
         <item itemvalue="Python.sss" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.4.4_可视化工具" />
-        <item itemvalue="Python.test (2)" />
-        <item itemvalue="Python.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -665,7 +618,7 @@
     <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
-          <caret line="137" column="60" lean-forward="true" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="60" />
+          <caret line="137" column="60" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="60" />
           <folding>
             <element signature="e#139#160#0" expanded="true" />
           </folding>
@@ -676,6 +629,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+          <folding>
+            <element signature="e#304#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.3_用tensorboardX可视化损失值.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+          <folding>
+            <element signature="e#288#306#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

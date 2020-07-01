@@ -16,6 +16,7 @@ import torch.nn.functional as F
 import torchvision
 from tensorboardX import SummaryWriter
 
+
 # (2) 构建神经网络
 class Net(nn.Module):
     def __init__(self):
@@ -46,5 +47,5 @@ print(input)
 # 实例化神经网络
 model = Net()
 # 将model保存为graph
-with SummaryWriter(log_dir="logs", comment="Net") as w:
+with SummaryWriter(log_dir="./res_data/logs", comment="Net") as w:
     w.add_graph(model, (input, ))
