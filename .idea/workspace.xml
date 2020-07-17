@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdef13e4-1234-4bc0-9180-4a154fb69969" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.3_用tensorboardX可视化损失值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py" beforeDir="false" afterPath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/logs/events.out.tfevents.1593511837.NgandeMacBook-Pro.local" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/res_data/test01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,59 +40,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="4.4.2_用tensorboardX可视化神经网络.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
-              <folding>
-                <element signature="e#304#316#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4.4.3_用tensorboardX可视化损失值.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.3_用tensorboardX可视化损失值.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-              <folding>
-                <element signature="e#288#306#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="137" column="60" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="60" />
-              <folding>
-                <element signature="e#139#160#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="4.3_torchvision简介.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.3_torchvision简介.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
-              <folding>
-                <element signature="e#139#148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -129,7 +77,6 @@
         <option value="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/4.1_数据处理工具箱概述.py" />
         <option value="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/4.2_utils的data简介.py" />
         <option value="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/4.3_torchvision简介.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/test.py" />
         <option value="$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/4.4_可视化工具.py" />
         <option value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/test.py" />
@@ -139,6 +86,7 @@
         <option value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/res_data/4.4.2_用tensorboardX可视化神经网络.py" />
         <option value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py" />
         <option value="$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.3_用tensorboardX可视化损失值.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
@@ -151,7 +99,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
@@ -169,11 +117,6 @@
             <path>
               <item name="PythonDeepLearningBasePytorch" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonDeepLearningBasePytorch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonDeepLearningBasePytorch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonDeepLearningBasePytorch" type="462c0819:PsiDirectoryNode" />
-              <item name="Champter4_PyTorchDataProcessingToolbox" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PythonDeepLearningBasePytorch" type="b2602c69:ProjectViewProjectNode" />
@@ -341,7 +284,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -349,39 +292,23 @@
       <window_info anchor="right" id="Redis Servers" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32820514" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41230768" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33846155" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1947497" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328594" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3279396" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26068377" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32967034" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.328594" />
-      <window_info anchor="right" x="330" y="238" width="1020" height="573" id="SciView" order="3" type="WINDOWED" weight="0.62271065" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.62277865" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39897436" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39968404" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.62277865" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.328594" />
-      <window_info anchor="right" id="Redis Servers" order="5" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.328594" />
-      <window_info anchor="bottom" id="Python Console" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,6 +323,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.2_神经网络实例.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
@@ -418,13 +352,7 @@
       </provider>
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/torch/nn/__init__.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.5_优化器.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -468,22 +396,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="82" column="10" lean-forward="true" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
-          <folding>
-            <element signature="e#226#238#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.1_数据处理工具箱概述.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorch数据处理工具箱/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.1_数据处理工具箱概述.py" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-2010535109/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -491,19 +408,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.2_utils的data简介.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-          <folding>
-            <element signature="e#154#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/res_data/test01.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.2_utils的data简介.py" />
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/res_data/test01.png" />
     <entry file="file://$PROJECT_DIR$/Champter3_Pythorch神经网络工具箱/3.2_神经网络实例.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
@@ -578,80 +484,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.2_utils的data简介.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="67" lean-forward="true" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="e#154#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.3_torchvision简介.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="94" column="9" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
-          <folding>
-            <element signature="e#139#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/image1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.1_数据处理工具箱概述.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.2_utils的data简介.py" />
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.3_torchvision简介.py" />
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/image1.png" />
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.1_数据处理工具箱概述.py" />
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="137" column="60" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="60" />
-          <folding>
-            <element signature="e#139#160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.1_tensorboardX简介.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
-          <folding>
-            <element signature="e#304#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.3_用tensorboardX可视化损失值.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
-          <folding>
-            <element signature="e#288#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/test.py" />
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.1_tensorboardX简介.py" />
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.2_用tensorboardX可视化神经网络.py" />
+    <entry file="file://$PROJECT_DIR$/Champter4_PyTorchDataProcessingToolbox/4.4.3_用tensorboardX可视化损失值.py" />
   </component>
   <component name="masterDetails">
     <states>
