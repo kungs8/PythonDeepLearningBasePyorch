@@ -8,4 +8,4 @@ for k, g in groupby(sorted(labels, reverse=True)):
 print(dicts.keys())
 print(dicts.values())
 a = list(dicts.keys())+ list(dicts.values())
-print(a)
+print("a:", a)
