@@ -9,3 +9,10 @@ print(dicts.keys())
 print(dicts.values())
 a = list(dicts.keys())+ list(dicts.values())
 print("a:", a)
+
+import torch
+from torch import nn
+m = nn.Sigmoid()
+input = torch.randn(2)
+output = m(input)
+print(output)
