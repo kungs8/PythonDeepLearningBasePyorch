@@ -72,8 +72,8 @@ for m in net.modules():
     # 判断一个对象是否是一个已知的类型
     if isinstance(m, nn.Conv2d):
         nn.init.normal_(m.weight)  # 正态分布
-        nn.init.xavier_normal(m.weight)  # xavier正态分布
-        nn.init.kaiming_normal_(m.weight)  # 卷积层参数初始化
+        nn.init.xavier_normal(m.weight)  # xavier正态分布,xavier一般用于激活函数S型(eg:sigmoid、tanh)的权重初始化
+        nn.init.kaiming_normal_(m.weight)  # 卷积层参数初始化，kaiming更适合激活函数为ReLU类的权重初始化
         nn.init.constant_(tensor=m.bias, val=0)  # 用值val填充向量
     elif isinstance(m, nn.Linear):
         nn.init.normal_(m.weight)  # 全连接层参数初始化
